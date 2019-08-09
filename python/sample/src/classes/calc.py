@@ -74,6 +74,3 @@ class arithmeticOperations():
 class fibonacci():
     def __init__(self,):
         self.readMeMessage = "このクラスはフィボナッチ数列計算を行うクラスです。"
-
-
-        
