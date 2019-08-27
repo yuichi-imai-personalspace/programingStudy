@@ -48,7 +48,7 @@ class arithmeticOperations():
     num：乗算対象の値
     """
     def multiplication(self, *num):
-        result = 0
+        result = 1
         for multi_param in num:
             result *= multi_param
         return result
