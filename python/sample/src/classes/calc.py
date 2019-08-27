@@ -74,3 +74,33 @@ class arithmeticOperations():
 class fibonacci():
     def __init__(self,):
         self.readMeMessage = "このクラスはフィボナッチ数列計算を行うクラスです。"
+
+"""
+行列計算をクラス
+更新者：今井 裕一
+更新日：2019/08/04
+コンストラクタ：自身の説明用文字列初期化
+"""
+class matrix():
+    def __init__(self,):
+        self.readMeMessage = "このクラスは行列計算を行うクラスです。"
+
+"""
+微分計算をクラス
+更新者：今井 裕一
+更新日：2019/08/04
+コンストラクタ：自身の説明用文字列初期化
+"""
+class differential():
+    def __init__(self,):
+        self.readMeMessage = "このクラスは微分計算を行うクラスです。"
+
+"""
+積分計算をクラス
+更新者：今井 裕一
+更新日：2019/08/04
+コンストラクタ：自身の説明用文字列初期化
+"""
+class Integral():
+    def __init__(self,):
+        self.readMeMessage = "このクラスは積分計算を行うクラスです。"
