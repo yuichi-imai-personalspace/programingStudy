@@ -74,6 +74,10 @@ class arithmeticOperations():
 class fibonacci():
     def __init__(self,):
         self.readMeMessage = "このクラスはフィボナッチ数列計算を行うクラスです。"
+        self.fibonacciCache[]
+        
+        for i in range(80):
+            fibo_val = 
 
 """
 行列計算をクラス
